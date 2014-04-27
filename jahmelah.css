@@ -2,7 +2,7 @@
 	color:#FF0033;
 	font-size: 24px;
 	font-family: 'Shadows Into Light', 'cursive';
-	background-color: rgba(83,70,48,.3);;
+	background-color: rgba(83,70,48,.3);
 	height: 100px;
 	width: 900px;
 	border: 1px solid gray;
@@ -16,6 +16,13 @@
 
  }
 
+#section{
+	color:#FF0033;
+	font-size: 24px;
+	font-family: 'Shadows Into Light', 'cursive';
+	background-color: rgba(83,70,48,.3);
+	padding-left: 70px;
+}
  .img-circle{
  	height:140px;
  	width:140px;
